@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/%7Bla-tracker%7D/static/css/main.5e5d3eaf.css",
-    "main.js": "/%7Bla-tracker%7D/static/js/main.979b8b79.js",
-    "static/js/787.f7eb6550.chunk.js": "/%7Bla-tracker%7D/static/js/787.f7eb6550.chunk.js",
-    "static/media/bootstrap-icons.woff?": "/%7Bla-tracker%7D/static/media/bootstrap-icons.c1d7432ee75fa194e499.woff",
-    "static/media/bootstrap-icons.woff2?": "/%7Bla-tracker%7D/static/media/bootstrap-icons.a13b815539b49de48d23.woff2",
-    "index.html": "/%7Bla-tracker%7D/index.html",
-    "main.5e5d3eaf.css.map": "/%7Bla-tracker%7D/static/css/main.5e5d3eaf.css.map",
-    "main.979b8b79.js.map": "/%7Bla-tracker%7D/static/js/main.979b8b79.js.map",
-    "787.f7eb6550.chunk.js.map": "/%7Bla-tracker%7D/static/js/787.f7eb6550.chunk.js.map"
+    "main.css": "/la-tracker/static/css/main.f8af3062.css",
+    "main.js": "/la-tracker/static/js/main.a1db713d.js",
+    "static/js/787.f7eb6550.chunk.js": "/la-tracker/static/js/787.f7eb6550.chunk.js",
+    "static/media/bootstrap-icons.woff?": "/la-tracker/static/media/bootstrap-icons.c1d7432ee75fa194e499.woff",
+    "static/media/bootstrap-icons.woff2?": "/la-tracker/static/media/bootstrap-icons.a13b815539b49de48d23.woff2",
+    "index.html": "/la-tracker/index.html",
+    "main.f8af3062.css.map": "/la-tracker/static/css/main.f8af3062.css.map",
+    "main.a1db713d.js.map": "/la-tracker/static/js/main.a1db713d.js.map",
+    "787.f7eb6550.chunk.js.map": "/la-tracker/static/js/787.f7eb6550.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5e5d3eaf.css",
-    "static/js/main.979b8b79.js"
+    "static/css/main.f8af3062.css",
+    "static/js/main.a1db713d.js"
   ]
 }
