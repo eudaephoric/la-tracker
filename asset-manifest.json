@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/la-tracker/static/css/main.f8af3062.css",
-    "main.js": "/la-tracker/static/js/main.a1db713d.js",
+    "main.css": "/la-tracker/static/css/main.02527345.css",
+    "main.js": "/la-tracker/static/js/main.e7eafd96.js",
     "static/js/787.f7eb6550.chunk.js": "/la-tracker/static/js/787.f7eb6550.chunk.js",
     "static/media/bootstrap-icons.woff?": "/la-tracker/static/media/bootstrap-icons.c1d7432ee75fa194e499.woff",
     "static/media/bootstrap-icons.woff2?": "/la-tracker/static/media/bootstrap-icons.a13b815539b49de48d23.woff2",
     "index.html": "/la-tracker/index.html",
-    "main.f8af3062.css.map": "/la-tracker/static/css/main.f8af3062.css.map",
-    "main.a1db713d.js.map": "/la-tracker/static/js/main.a1db713d.js.map",
+    "main.02527345.css.map": "/la-tracker/static/css/main.02527345.css.map",
+    "main.e7eafd96.js.map": "/la-tracker/static/js/main.e7eafd96.js.map",
     "787.f7eb6550.chunk.js.map": "/la-tracker/static/js/787.f7eb6550.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f8af3062.css",
-    "static/js/main.a1db713d.js"
+    "static/css/main.02527345.css",
+    "static/js/main.e7eafd96.js"
   ]
 }
